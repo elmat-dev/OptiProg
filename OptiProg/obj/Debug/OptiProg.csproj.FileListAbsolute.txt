@@ -1,0 +1,12 @@
+D:\RnD\ProjektyAplikacji\OptiProg\OptiProg\bin\Debug\OptiProg.exe.config
+D:\RnD\ProjektyAplikacji\OptiProg\OptiProg\bin\Debug\OptiProg.exe
+D:\RnD\ProjektyAplikacji\OptiProg\OptiProg\bin\Debug\OptiProg.pdb
+D:\RnD\ProjektyAplikacji\OptiProg\OptiProg\obj\Debug\OptiProg.csprojResolveAssemblyReference.cache
+D:\RnD\ProjektyAplikacji\OptiProg\OptiProg\obj\Debug\OptiProg.exe
+D:\RnD\ProjektyAplikacji\OptiProg\OptiProg\obj\Debug\OptiProg.pdb
+D:\RnD\ProjektyAplikacji\OptiProg\OptiProg\obj\Debug\OptiProg.MainForm.resources
+D:\RnD\ProjektyAplikacji\OptiProg\OptiProg\obj\Debug\OptiProg.csproj.GenerateResource.Cache
+D:\RnD\ProjektyAplikacji\OptiProg\OptiProg\bin\Debug\HidSharp.DeviceHelpers.dll
+D:\RnD\ProjektyAplikacji\OptiProg\OptiProg\bin\Debug\HidSharp.dll
+D:\RnD\ProjektyAplikacji\OptiProg\OptiProg\bin\Debug\HidSharp.pdb
+D:\RnD\ProjektyAplikacji\OptiProg\OptiProg\bin\Debug\HidSharp.xml
